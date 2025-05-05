@@ -59,3 +59,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+# MyApp
+
+このアプリは○○をするための学習用Laravelプロジェクトです。
+
+## 特徴
+- Docker環境下で動作
+- お問い合わせフォーム機能
+- GitHub連携済み
