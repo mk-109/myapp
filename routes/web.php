@@ -18,7 +18,7 @@ use Illuminate\Http\Request;
 use App\Models\Contact; 
 
 //  GET /form → フォーム画面を表示
-Route::get('/form', function () {
+Route::get('/', function () {
     return view('form');
 });
 
