@@ -69,3 +69,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - Docker環境下で動作
 - お問い合わせフォーム機能
 - GitHub連携済み
+- 練習用に最適！！
